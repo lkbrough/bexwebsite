@@ -1,0 +1,89 @@
+header {
+	font-family: 'Rowdies', cursive;
+	font-size: 250%;
+	text-decoration: none;
+	color: whitesmoke;
+}
+
+table {
+	float: right;
+	width: 25%;
+	height: 10%;
+	table-layout: fixed;
+	padding: 0;
+}
+
+.nav a{
+	font-family: 'Rowdies', cursive;
+	font-size: 20px;
+	text-decoration: none;
+	color: whitesmoke;
+	text-align: center;
+	vertical-align: 30%;
+}
+
+.nav td{
+	background-color: #121619;
+	text-align: center;
+	vertical-align: center;
+	transition: background .75s;
+}
+
+#navAlternate:hover{
+	background-color: #29BF12;
+	transition: background .75s;
+}
+
+.nav td:hover{
+	background-color: #F9C80E;
+	transition: background .75s;
+}
+
+a {
+	font-family: 'Rowdies', cursive;
+	font-size: 20px;
+	text-decoration: underline;
+	color: #FF784F;
+}
+	
+img {
+	height: 15%;
+	width: 15%;
+}
+
+img.profile {
+	height:15%;
+	width:15%;
+	padding-right:45px;
+}
+
+img.present {
+	height:15%;
+	width:15%;
+	padding-right:150px;
+}
+
+body {
+	background-color: #121619;
+}
+
+h1 {
+	font-family: 'Rowdies', cursive;
+	color: #29BF12;
+}
+
+h1.alternate {
+	font-family: 'Rowdies', cursive;
+	color: #F9C80E;
+}
+
+p {
+	font-family: 'Noto Sans Osmanya', sans-serif;
+	color: whitesmoke;
+}
+
+li {
+	font-family: 'Noto Sans Osmanya', sans-serif;
+	color: whitesmoke;
+}
+
